@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m <i>Syed Bipul Rahman</i><h1>
-<h3 align="center"> 👀 I’m Android Apps Developer from BANGLADESH.</h3>
+<h3 align="center"> 👀 Android Apps Developer from BANGLADESH.</h3>
   <br>
 
 - 🌱 I’m currently learning LARAVEL
