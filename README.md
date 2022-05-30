@@ -77,3 +77,18 @@ You can click the Preview link to take a look at your changes.
     alt="syed bipul rahman" /> 
 </p>
 <br>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sb-Rahman&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sb-Rahman&theme=chartreuse-dark" />
+</p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sb-Rahman&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
