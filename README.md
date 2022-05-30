@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sb-Rahman
-- 👀 I’m a Android apps developer from BANGLADESH.
+- 👀 I’m Android apps developer from BANGLADESH.
 - 🌱 I’m currently learning LARAVEL
 - 🌱 From <b>2020</b> I'm working as a <i>Full-stack Web Developer</i>.
 - 
