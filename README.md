@@ -2,7 +2,7 @@
 <h3 align="center"> 👀 Android Apps Developer from BANGLADESH.</h3>
   <br>
 
-- 🌱 I’m currently learning LARAVEL
+- 🌱 I’m currently learning <h3>Something New</h3>
 - 🌱 From <b>2020</b> I'm working as a <i>Full-stack Web Developer</i>.
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
 - ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
