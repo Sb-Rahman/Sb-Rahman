@@ -68,7 +68,12 @@ You can click the Preview link to take a look at your changes.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> </p>
+      alt="react" width="40" height="40" /> </a>
+   <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img
+      src="https://user-images.githubusercontent.com/91535977/172392234-c93e98d8-cfee-4792-908c-14f05f5741ae.png" alt="laravel"
+      width="40" height="40" /> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+      src="https://user-images.githubusercontent.com/91535977/172393046-e0965cd7-1e3e-4bee-b5fc-e53ea0002b18.png" alt="php"
+      width="40" height="40" /> </a></p>
 
 <br>
 
