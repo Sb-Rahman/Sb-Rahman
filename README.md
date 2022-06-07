@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning <b>Something New</b>
 - 🌱 From <b>2020</b> I'm working as a <i>Full-stack Web Developer</i>.
-  🌱 From <b>April 2021</b> I'm working as a <i>Android and Web apps developer</i>.
+- 🌱 From <b>April 2021</b> I'm working as a <i>Android and Web apps developer</i>.
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
 - ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
