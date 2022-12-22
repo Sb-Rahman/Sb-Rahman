@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.hackerrank.com/sb12cse" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="syed bipul" height="30" width="40" /></a>
- <a href="https://twitter.com/SbRahman14" target="blank"><img align="center"
+ <a href="https://twitter.com/SbRahman12" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="syed bipul rahman" height="30" width="40" /></a>
 </p>
